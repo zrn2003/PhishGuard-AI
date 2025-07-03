@@ -31,6 +31,10 @@ graph TD;
 - The frontend sends URL analysis requests to its own `/api/analyze` route, which proxies to the backend's `/api/predict` endpoint.
 - The backend extracts features, runs the ML model, and returns a detailed risk assessment.
 
+## Screenshot
+
+![PhishGuard AI Screenshot](Screenshot.png)
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -106,4 +110,4 @@ graph TD;
 
 ---
 
-*PhishGuard AI – Protecting users from phishing threats with the power of AI.* 
+*PhishGuard AI – Protecting users from phishing threats with the power of AI.*
