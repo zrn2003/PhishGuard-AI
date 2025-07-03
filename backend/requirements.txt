@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+torch
+pandas
+scikit-learn
+joblib
+python-multipart
+tldextract
+requests
+beautifulsoup4
+python-whois
+numpy
