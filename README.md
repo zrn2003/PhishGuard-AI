@@ -105,9 +105,4 @@ graph TD;
 - Submit pull requests with clear descriptions.
 - For major changes, please open an issue first to discuss.
 
-## License
-[MIT](LICENSE) (or specify your license here)
-
----
-
 *PhishGuard AI – Protecting users from phishing threats with the power of AI.*
