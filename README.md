@@ -106,3 +106,8 @@ graph TD;
 - For major changes, please open an issue first to discuss.
 
 *PhishGuard AI – Protecting users from phishing threats with the power of AI.*
+
+## Disclaimer
+
+PhishGuard AI is a machine learning–based system, and while it is trained on real phishing data and engineered to detect threats accurately, predictions may occasionally vary or produce false positives/negatives. Always use additional verification methods when dealing with suspicious URLs.
+
